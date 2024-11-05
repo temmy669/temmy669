@@ -45,7 +45,7 @@ A secure user and organization management system utilizing JWT-based authenticat
 - **Role-based access control** with JWT
 - Full **CRUD operations** for organizations
 
-**[View Project](https://github.com/temmy669/organization-management)**
+**[View Project](https://github.com/temmy669/User-Org-management)**
 
 
 ---
