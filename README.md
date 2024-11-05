@@ -78,6 +78,8 @@ A secure user and organization management system utilizing JWT-based authenticat
 
 ## 📫 Connect with Me!
 
-- LinkedIn: [linkedin.com/in/temmy669](https://www.linkedin.com/in/adebose-favour)
-- Twitter: [@temmy669](https://twitter.com/tem_mylade)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/adebose-favour)
+[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white)](https://twitter.com/tem_mylade)
+
+
 
