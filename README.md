@@ -2,7 +2,7 @@
 
 ![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Courier&size=24&duration=4000&color=2687FF&lines=Backend+Developer;Django+Enthusiast;Open+to+Collaborations)
 
-I'm a Backend Developer with a B.Sc. in Software Engineering, specializing in building efficient, scalable applications. I enjoy working with Django. Currently, I'm expanding my portfolio with advanced API development and background processing tasks using Celery and Docker.
+I'm a Backend Developer with a B.Sc. in Software Engineering, specializing in building efficient, scalable applications. I enjoy working with Django. Currently, I'm expanding my portfolio with advanced API development and integration.
 
 ---
 
