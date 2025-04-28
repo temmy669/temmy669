@@ -59,6 +59,15 @@ A secure user and organization management system utilizing JWT-based authenticat
 
 ## 💼 Experience
 
+- **Waje Smart Solutions — Backend Developer
+  - Developed and maintained scalable APIs to support high-traffic platforms, implementing performance optimization and security best practices.
+  - Created and maintained comprehensive technical documentation for APIs, workflows, and system integrations to streamline team onboarding and collaboration.
+  - Refactored legacy codebases to enhance readability, maintainability, and efficiency.
+  - Debugged and troubleshooted backend services to quickly identify and resolve production issues.
+  - Collaborated with cross-functional teams to plan and implement safe system updates, especially while handling sensitive user data.
+  - Scheduled off-peak maintenance periods to ensure safe deployment and avoid service disruption.
+
+
 - **Junior Software Engineering Intern (Platform Innovations)**:
   - Developed a web application with an IoT soil humidity sensor for real-time soil moisture monitoring and remote irrigation control via Blink IoT API
   - Collaborated with team members to produce scalable and efficient applications
