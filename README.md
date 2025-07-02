@@ -18,14 +18,20 @@ I'm a Backend Developer with a B.Sc. in Software Engineering, specializing in bu
 
 ## 🌟 Featured Projects
 
-### Inventory Management System
-![Inventory Management Demo](path-to-gif-demo.gif)
-A RESTful API-based inventory management system built with Django and Celery for background tasks, Dockerized for deployment. Highlights include:
-- **CRUD** operations for managing inventory
-- **Async tasks** with Celery
-- Complete **API documentation** and test coverage
+### A Clinic Management system
+![Clinic Management system Demo](path-to-gif-demo.gif) 
+A Django-based appointment booking and reminder system for a dental clinic, with reschedule and cancellation support. It's features include:
+- 🦷 Appointment Booking System for dental clinic patients
+- 📥 Admin approval workflow for confirming or rescheduling appointments
+- 📧 Automated email notifications to both admin and patients
+- 📲 SMS reminders using Twilio (configurable)
+- 📅 Admin dashboard with custom status controls and color-coded badges
+- 📁 Export daily confirmed appointments as a downloadable .docx file
+- 🔁 Patient-friendly reschedule & cancel links via email
+- 🕒 Scheduled reminders for upcoming appointments (email/SMS) (in progress)
+- 🔐 Built with Django (Python) and secured email sending using environment variables
 
-**[View Project](https://github.com/temmy669/Inventory_Management_System)**
+**[View Project](https://github.com/temmy669/Clinic_backend)**
 
 ---
 
@@ -39,16 +45,17 @@ A comprehensive real estate platform designed to connect property seekers with l
 
 ---
 
-### User & Organization Management System
-A secure user and organization management system utilizing JWT-based authentication and PostgreSQL. Key features include:
-- **User registration and login** with secure password handling
-- **Role-based access control** with JWT
-- Full **CRUD operations** for organizations
+### Inventory Management System
+![Inventory Management Demo](path-to-gif-demo.gif)
+A RESTful API-based inventory management system built with Django and Celery for background tasks, Dockerized for deployment. Highlights include:
+- **CRUD** operations for managing inventory
+- **Async tasks** with Celery
+- Complete **API documentation** and test coverage
 
-**[View Project](https://github.com/temmy669/User-Org-management)**
-
+**[View Project](https://github.com/temmy669/Inventory_Management_System)**
 
 ---
+
 
 ## 📈 GitHub Stats
 
@@ -59,14 +66,18 @@ A secure user and organization management system utilizing JWT-based authenticat
 
 ## 💼 Experience
 
-- **Waje Smart Solutions — Backend Developer
+- **Waje Smart Solutions — Backend Developer**
   - Developed and maintained scalable APIs to support high-traffic platforms, implementing performance optimization and security best practices.
   - Created and maintained comprehensive technical documentation for APIs, workflows, and system integrations to streamline team onboarding and collaboration.
   - Refactored legacy codebases to enhance readability, maintainability, and efficiency.
   - Debugged and troubleshooted backend services to quickly identify and resolve production issues.
   - Collaborated with cross-functional teams to plan and implement safe system updates, especially while handling sensitive user data.
   - Scheduled off-peak maintenance periods to ensure safe deployment and avoid service disruption.
-
+ 
+- **HNG Internship : Backend Developer Intern**  
+  - Created a user authentication and organization management system with JWT-based access control.
+  - Developed secure and efficient CRUD operations with PostgreSQL.
+  - Contributed to API documentation using OpenAPI standards on SwaggerHub.
 
 - **Junior Software Engineering Intern (Platform Innovations)**:
   - Developed a web application with an IoT soil humidity sensor for real-time soil moisture monitoring and remote irrigation control via Blink IoT API
@@ -76,12 +87,6 @@ A secure user and organization management system utilizing JWT-based authenticat
   - Led a team to design and implement the MedNexus Hospital Management System, optimizing task performance.
   - Managed the project using GitHub Kanban, Asana, ClickUp, and conducted weekly standups.
   - Developed authentication and registration endpoints, integrated with a MySQL database.
-
-
-- **HNG Internship**: Backend Developer Intern  
-  - Created a user authentication and organization management system with JWT-based access control.
-  - Developed secure and efficient CRUD operations with PostgreSQL.
-  - Contributed to API documentation using OpenAPI standards on SwaggerHub.
 
 ---
 
